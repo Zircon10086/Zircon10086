@@ -26,31 +26,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F76EEE&width=435&lines=Hi%2C+I'm+Zircon10086.;Welcome+to+my+GitHub." alt="Typing SVG" />
 ============================================================ -->
 
-<!-- ============================================================
-  区块 2:一句话介绍 (My Intro)
-  TODO: 补充你的一句话身份标签,例如:
-        后端开发 / 学生 / 全栈学习中 / 游戏爱好者 ...
-  启用:删掉本行 和 末尾注释结束行
-============================================================
 <h2 align="center">My Intro</h2>
 
-<这里写一句话介绍>
-============================================================ -->
+ENTJ-A / Windows User / Sophomore year / Aircraft Maintenance
 
-<!-- ============================================================
-  区块 3:联系方式 (Contact Me)
-  TODO: 提供社交账号(已确认邮箱 kzr90551@gmail.com),
-        其余如 Telegram / X / 博客 / B站 等按下述格式补充
-  启用:删掉本行 和 末尾注释结束行
-============================================================
 <h2 align="center">Contact Me</h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-kzr90551@gmail.com-666666?style=for-the-badge&logo=Gmail&logoColor=&labelColor=000000)](mailto:kzr90551@gmail.com)
-<!-- 其他账号示例:
-[![Telegram](https://img.shields.io/badge/Telegram-@your_id-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000)](https://t.me/your_id)
-[![X](https://img.shields.io/badge/@your_handle-666666?style=for-the-badge&logo=X&logoColor=&labelColor=000000)](https://x.com/your_handle)
--->
-============================================================ -->
+[![Telegram](https://img.shields.io/badge/Telegram-@zircon10086-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000)](https://t.me/zircon10086)
 
 <!-- ============================================================
   区块 4:技术栈 (Skills & Tools,Devicon 图标)
